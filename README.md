@@ -1,6 +1,6 @@
 # flutter_tabs
 
-A new Flutter project.
+A new Flutter project showing animation bettwen tabs.
 
 ## Getting Started
 
